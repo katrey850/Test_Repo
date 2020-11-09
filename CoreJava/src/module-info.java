@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Kate
+ *
+ */
+module coreJava {
+}
